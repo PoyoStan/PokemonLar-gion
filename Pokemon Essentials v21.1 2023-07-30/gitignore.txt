@@ -1,0 +1,10 @@
+Save/
+
+Thumbs.db
+desktop.ini
+
+*.log
+*.bak
+
+.vscode/
+.idea/
